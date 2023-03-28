@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XcTlSZ9y1bVJDysvLjYz6IMOlLa74Ogt4jPN/UxQFN4=",
+  "Hash": "sPrpKWoN7DOTTQa5CXesbzEtm51cOzg7VxHiYOwKCj0=",
   "Source": "AppMeteo.Server",
   "BasePath": "_content/AppMeteo.Server",
   "Mode": "Default",
@@ -7150,6 +7150,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\js\\ThemeChooser.js",
+      "SourceId": "AppMeteo.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/ThemeChooser.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ThemeChooser.js"
     }
   ]
 }

@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-y7DhCb2PceYWjnHWsZokJrty551Q9XISH3Z72o6RdwI=",
       "netstandard.dll": "sha256-REs1\/xYvAzuX2k2Y5p\/5IaM3O\/zaiYSW62pOQBGMrrA=",
       "System.Private.CoreLib.dll": "sha256-Bz7VnNtt03SzAvIN30yx1e25P6SfMdLYIaKIy7ASEnw=",
-      "AppMeteo.Shared.dll": "sha256-rzzGk5bFRuFIqDJ9d\/wybAqvkFx14sMOin4N1wZvg80=",
-      "AppMeteo.Client.dll": "sha256-hzzpT8PeEHjyCpndv96x5+QxobjjsjQrLNRTa+3tfY8="
+      "AppMeteo.Shared.dll": "sha256-K8YeP66biNZA7vuWUEmB2VvxjWKAZNy0vIiL6YoWeaw=",
+      "AppMeteo.Client.dll": "sha256-6I2ltcRog8F+iodFcX+NHb1inwnY\/t8kClT\/c1YjKZM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "AppMeteo.Shared.pdb": "sha256-iH3MHLEsL7Cfwv8CzzCbfRnd1MuJEmJLvQT7xSQPMLg=",
-      "AppMeteo.Client.pdb": "sha256-lCJm5a\/GnGLn\/8NHsJ0uzI2FOfr8I30GuQn\/Ks0lC1k="
+      "AppMeteo.Shared.pdb": "sha256-zN8petfr37oH72YiAutktRKZFrQy2OCScPwq4JJM3s4=",
+      "AppMeteo.Client.pdb": "sha256-0zsi2JQTeqZ89YlieYfUen0uB4\/GSm7eq8GQ7imoehk="
     },
     "runtime": {
       "dotnet.6.0.15.4de83zsqbd.js": "sha256-fb2wBZaRp096nChMG9nDNEcW0kW1whA\/kfQNyH+5QpQ=",

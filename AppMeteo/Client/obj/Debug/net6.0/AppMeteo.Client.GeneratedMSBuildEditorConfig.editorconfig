@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Pages/ListGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdEdyb3VwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Pages/Routing1.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGluZzEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Shared/ToggleTheme.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvZ2dsZVRoZW1lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ablamhamdi/source/repos/AppMeteo/AppMeteo/Client/Shared/WeatherDay.razor]

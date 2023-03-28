@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hboy+hiyhS/0JdZWVIftrIWSu3G5QtXZEXe0TVbhWcI=",
+  "Hash": "8uz/fliqQhCzj4IRGCkqh9ukGedioz/+jn7h44zkK4w=",
   "Source": "AppMeteo.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -6953,6 +6953,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\css\\light.css",
+      "SourceId": "AppMeteo.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/light.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\light.css"
+    },
+    {
       "Identity": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "AppMeteo.Client",
       "SourceType": "Discovered",
@@ -7155,6 +7172,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\js\\ThemeChooser.js",
+      "SourceId": "AppMeteo.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/ThemeChooser.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ThemeChooser.js"
     }
   ]
 }

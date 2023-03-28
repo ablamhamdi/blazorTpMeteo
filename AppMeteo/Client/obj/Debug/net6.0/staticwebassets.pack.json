@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\css\\light.css",
+      "PackagePath": "staticwebassets\\css\\light.css"
+    },
+    {
       "Id": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
@@ -71,6 +75,10 @@
     {
       "Id": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Client\\wwwroot\\js\\ThemeChooser.js",
+      "PackagePath": "staticwebassets\\js\\ThemeChooser.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AppMeteo.Client.Microsoft.AspNetCore.StaticWebAssets.props",
