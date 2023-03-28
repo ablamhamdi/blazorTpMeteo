@@ -1,0 +1,42 @@
+﻿
+@page "/Weaklyforecast"
+@using AppMeteo.Shared.Data;
+@using AppMeteo.Shared;
+@inject WeatherForecastService WeatherService
+<h3>Weaklyforecast</h3>
+
+<div class="d-flex">
+    @if (forecasts == null)
+    {
+        <span>No Data</span>
+    }
+    else
+    {
+        foreach (var forecast in forecasts)
+        {
+            <WeatherDay TemperatureC="forecast.TemperatureC"
+                Summary="@forecast.Summary"
+                DayOfWeek="forecast.Date.DayOfWeek"
+                Selected="forecast.Selected">
+                <CustomMessage>
+                    @if (forecast.Summary == "Rainy")
+                    {
+                        <div class="alert alert-danger">
+                            Tornado Warning!
+                        </div>
+                    }
+                </CustomMessage>
+            </WeatherDay>
+        }
+    }
+
+</div>
+@code {
+   
+    WeatherForecast[] forecasts;
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await WeatherService
+       .GetForecastAsync(DateTime.Now);
+    }
+}

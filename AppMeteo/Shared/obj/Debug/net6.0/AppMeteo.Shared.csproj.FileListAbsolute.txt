@@ -1,0 +1,12 @@
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\bin\Debug\net6.0\AppMeteo.Shared.deps.json
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\bin\Debug\net6.0\AppMeteo.Shared.dll
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\bin\Debug\net6.0\AppMeteo.Shared.pdb
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.csproj.AssemblyReference.cache
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.AssemblyInfoInputs.cache
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.AssemblyInfo.cs
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.dll
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\refint\AppMeteo.Shared.dll
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\AppMeteo.Shared.pdb
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Shared\obj\Debug\net6.0\ref\AppMeteo.Shared.dll
