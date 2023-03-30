@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMeteo.Client", "AppMeteo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMeteo.Shared", "AppMeteo\Shared\AppMeteo.Shared.csproj", "{E3A4EF2D-B5F9-469C-968E-CEBC009F2984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary1", "RazorClassLibrary1\RazorClassLibrary1.csproj", "{7A9D9C09-3B39-4042-9747-1E2919DAC828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E3A4EF2D-B5F9-469C-968E-CEBC009F2984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A4EF2D-B5F9-469C-968E-CEBC009F2984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A4EF2D-B5F9-469C-968E-CEBC009F2984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9D9C09-3B39-4042-9747-1E2919DAC828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9D9C09-3B39-4042-9747-1E2919DAC828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9D9C09-3B39-4042-9747-1E2919DAC828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9D9C09-3B39-4042-9747-1E2919DAC828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

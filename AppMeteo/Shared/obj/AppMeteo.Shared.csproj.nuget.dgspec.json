@@ -48,6 +48,10 @@
             "Microsoft.AspNetCore.Components": {
               "target": "Package",
               "version": "[6.0.14, )"
+            },
+            "Microsoft.JSInterop": {
+              "target": "Package",
+              "version": "[6.0.14, )"
             }
           },
           "imports": [

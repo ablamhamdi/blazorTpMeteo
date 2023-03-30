@@ -517,7 +517,8 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AppMeteo.Shared": "1.0.0",
-          "Microsoft.AspNetCore.Components.WebAssembly": "6.0.14"
+          "Microsoft.AspNetCore.Components.WebAssembly": "6.0.14",
+          "RazorClassLibrary1": "1.0.0"
         },
         "compile": {
           "bin/placeholder/AppMeteo.Client.dll": {}
@@ -530,13 +531,27 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "6.0.14"
+          "Microsoft.AspNetCore.Components": "6.0.14",
+          "Microsoft.JSInterop": "6.0.14"
         },
         "compile": {
           "bin/placeholder/AppMeteo.Shared.dll": {}
         },
         "runtime": {
           "bin/placeholder/AppMeteo.Shared.dll": {}
+        }
+      },
+      "RazorClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/RazorClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorClassLibrary1.dll": {}
         }
       }
     }
@@ -1211,6 +1226,11 @@
       "type": "project",
       "path": "../Shared/AppMeteo.Shared.csproj",
       "msbuildProject": "../Shared/AppMeteo.Shared.csproj"
+    },
+    "RazorClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../../RazorClassLibrary1/RazorClassLibrary1.csproj",
+      "msbuildProject": "../../RazorClassLibrary1/RazorClassLibrary1.csproj"
     }
   },
   "projectFileDependencyGroups": {

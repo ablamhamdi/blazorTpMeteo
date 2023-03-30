@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+yTufJU0HF34apnRJVanhEz+9I7hxgVnGTNhUf2FvY3b3wFavlVhNclGVmtzK7P11spA4kp2agWx216+ZZzrA==",
+  "dgSpecHash": "7rP1SKuEt4xgLe4yQn/7ZiCHz4vvFVLsMIkqSE0ybxz3OYjVAYEgW0Q/TFq9NjOIVn41VYtNVyj6DHoGFzjS+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ablamhamdi\\source\\repos\\AppMeteo\\AppMeteo\\Shared\\AppMeteo.Shared.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\ablamhamdi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\ablamhamdi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\ablamhamdi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ablamhamdi\\.nuget\\packages\\microsoft.jsinterop\\6.0.14\\microsoft.jsinterop.6.0.14.nupkg.sha512",
     "C:\\Users\\ablamhamdi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

@@ -826,3 +826,13 @@ C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\obj\Debug\net6.0\AppMe
 C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\obj\Debug\net6.0\refint\AppMeteo.Client.dll
 C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\obj\Debug\net6.0\AppMeteo.Client.pdb
 C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\obj\Debug\net6.0\ref\AppMeteo.Client.dll
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\wwwroot\_framework\RazorClassLibrary1.dll
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\wwwroot\_framework\RazorClassLibrary1.pdb
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\wwwroot\_framework\RazorClassLibrary1.pdb.gz
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\wwwroot\_framework\RazorClassLibrary1.dll.gz
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\RazorClassLibrary1.staticwebassets.runtime.json
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\libman.json
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\RazorClassLibrary1.dll
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\bin\Debug\net6.0\RazorClassLibrary1.pdb
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\obj\Debug\net6.0\build-gz\PGloAm5O.gz
+C:\Users\ablamhamdi\source\repos\AppMeteo\AppMeteo\Client\obj\Debug\net6.0\build-gz\5hmHEg+5.gz

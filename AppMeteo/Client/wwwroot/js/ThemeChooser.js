@@ -8,7 +8,7 @@
         newLink.setAttribute("href", `css/${themeName}.css`);
         // Remove and replace the theme
         let head = document.getElementsByTagName("head")[0];
-        head.querySelector("#theme").remove();
-        head.appendChild(newLink);
+        head.querySelector("#theme").replaceWith(newLink);
+     /*   head.appendChild(newLink);*/
     }
 }
